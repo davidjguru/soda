@@ -1,5 +1,6 @@
 name: cortazar
 type: theme
+base theme: stable
 description: 'Biko D8 starter theme - component based'
 core: 8.x
 libraries:
